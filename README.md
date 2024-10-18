@@ -27,3 +27,8 @@ Thank you for reviewing my project app!
 ### I didn't add error handling for the sake of time, but normally I'd add error banners/graceful failures where needed 
 ### I also would have created a few more files/classes to be more modular, but I didn't want to bloat this small project
 ### I'm running into a couple non-blocking runtime warnings around the database during testing & the textfield for both alert popups, but I didn't have time to investigate them further. 
+
+Demo app (short due to the 10mb size limit)
+
+https://github.com/user-attachments/assets/f6720736-5bf6-49b9-a6d6-d16281bc662c
+
